@@ -1,6 +1,7 @@
 # AxiomRAG 🏛️
 
 <div align="center">
+<img width="3584" height="1184" alt="AxiomRAG logo" src="https://github.com/user-attachments/assets/ad66179f-d98e-4447-9686-ade0293f0f3f" />
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red.svg)](https://streamlit.io)
