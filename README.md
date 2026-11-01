@@ -47,3 +47,15 @@ In quantitative finance, corporate valuation, and econometric research, data pri
   ```bash
   ollama pull llama3.1
   ollama pull nomic-embed-text
+  
+  ---
+
+## 🎥 Demo
+
+> Watch AxiomRAG ingest financial documents and query data locally in real-time below:
+
+---
+
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
