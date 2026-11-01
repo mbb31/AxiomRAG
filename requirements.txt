@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
