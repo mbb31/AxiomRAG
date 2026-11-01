@@ -54,6 +54,11 @@ In quantitative finance, corporate valuation, and econometric research, data pri
 
 > Watch AxiomRAG ingest financial documents and query data locally in real-time below:
 
+
+https://github.com/user-attachments/assets/43d7cb9c-f261-49f4-83be-f963062c8f68
+
+
+
 ---
 
 ## 📜 License
